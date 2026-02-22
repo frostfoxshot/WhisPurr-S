@@ -1,4 +1,4 @@
-# Whispurr-S
+# Whispurr-S(toat)
 
 **Whispurr-S** is a Stoat Chat client designed to visually and functionally mirror the **Whisper Fork** of Fluffy Chat, preserving its intuitive UI/UX—including message styling, themes, and navigation—while adapting its backend to fully support Stoat Chat’s protocol. The initial focus is on cross-platform compatibility for desktop, mobile, and web. Over time, the project will expand with **Quality of Life (QoL) improvements**, such as more default themes, and performance optimizations for low-resource environments.
 
